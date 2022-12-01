@@ -1,4 +1,2 @@
-const data = [
-    {x:'sd'}
-];
+const data = [{ x: "sd" }];
 module.exports = data;
